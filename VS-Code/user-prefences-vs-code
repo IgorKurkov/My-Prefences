@@ -1,0 +1,26 @@
+{
+    "emmet.triggerExpansionOnTab": true,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "**/*.js.map": true,
+        "**/*.js": {
+            "when": "$(basename).ts"
+        }
+    },
+    "editor.tabSize": 2,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "vue-html": "html",
+        "plaintext": "jade",
+        "css": "sass"
+    },
+
+    "editor.fontSize": 16,
+    "files.autoSave": "afterDelay",
+    "window.zoomLevel": 0
+}
+// "Color Highlight" vscode addon for colors #FFF highlights them
+// "To do tasks" vscode addon for task lists
+// "Css Formatter"
+// "Sass" indented syntax highlighting autocomplete...
