@@ -18,7 +18,10 @@
 
     "editor.fontSize": 16,
     "files.autoSave": "afterDelay",
-    "window.zoomLevel": 0
+    "window.zoomLevel": 0,
+    // "files.useExperimentalFileWatcher": true,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe"/*"C:\\Windows\\system32\\cmd.exe"*/,
+    
 }
 // "Color Highlight" vscode addon for colors #FFF highlights them
 // "To do tasks" vscode addon for task lists
